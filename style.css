@@ -844,3 +844,13 @@ footer .text span a:hover {
 .projects-details .card .card-body a.btn {
   margin: 5px;
 }
+/* =================================== */
+/* Education Section - Grade Color Fix */
+/* =================================== */
+
+.education-grade {
+  /* ఒక అందమైన, ప్రకాశవంతమైన నీలం రంగు */
+  color: #87CEEB; /* Sky Blue */
+  font-weight: 500; 
+  opacity: 0.9; 
+}
