@@ -27,7 +27,7 @@ $(document).ready(function(){
 });
 
 let options = {
-  strings: ["Frontend Developer", "Web Developer", "python Developer"],
+  strings: [ "python Developer","Building Scalable Web Applications", "Enthusiastic Learner"],
   typeSpeed: 50,
   backSpeed: 50,
   loop: true,
